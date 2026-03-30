@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "R4 / 歌愛ユキ 初音ミク",
+  "base_artist": "ぎゅる子(ex-Ç¢Çª)",
+  "createdAt": "2026-03-30T07:30:11.397695Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "R4",
+      "artist": "Raf",
+      "has_synced": true,
+      "path": "select/01_R4_Raf.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Retaliation (R4 The Vengeance)",
+      "artist": "PrinceWhateverer",
+      "has_synced": true,
+      "path": "select/02_Retaliation_(R4_The_Vengeance)_PrinceWhateverer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "R4 Intro",
+      "artist": "Big K.R.I.T.",
+      "has_synced": false,
+      "path": "select/03_R4_Intro_Big_K.R.I.T..txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "R4 Theme Song",
+      "artist": "Big K.R.I.T.",
+      "has_synced": true,
+      "path": "select/04_R4_Theme_Song_Big_K.R.I.T..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Big K.R.I.T. - R4 Theme Song",
+      "artist": "Big K.R.I.T.",
+      "has_synced": true,
+      "path": "select/05_Big_K.R.I.T._-_R4_Theme_Song_Big_K.R.I.T..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "El R4",
+      "artist": "Los Alegres del Barranco",
+      "has_synced": false,
+      "path": "select/06_El_R4_Los_Alegres_del_Barranco.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "El R4",
+      "artist": "Alegres del Barranco, Los",
+      "has_synced": false,
+      "path": "select/07_El_R4_Alegres_del_Barranco,_Los.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "R4 Gold Intermission (feat. 16:9 kilomanji ∔)",
+      "artist": "16:9 krollo ✥",
+      "has_synced": true,
+      "path": "select/08_R4_Gold_Intermission_(feat._16_9_kilomanji_∔)_16_9_krollo_✥.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "R4 Gold Intermission (Instrumental)",
+      "artist": "16:9 krollo ✥",
+      "has_synced": true,
+      "path": "select/09_R4_Gold_Intermission_(Instrumental)_16_9_krollo_✥.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "R4 Gold Intermission",
+      "artist": "16:9 krollo ✥",
+      "has_synced": true,
+      "path": "select/10_R4_Gold_Intermission_16_9_krollo_✥.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "R4 (Rotkohl)",
+      "artist": "Rodgau Monotones",
+      "has_synced": false,
+      "path": "select/11_R4_(Rotkohl)_Rodgau_Monotones.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "R4 Gold Intermission (feat. 16:9 kilomanji ∔)",
+      "artist": "16:9 krollo",
+      "has_synced": true,
+      "path": "select/12_R4_Gold_Intermission_(feat._16_9_kilomanji_∔)_16_9_krollo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "R4 feat. nyamura",
+      "artist": "ぎゅる子",
+      "has_synced": false,
+      "path": "select/pl_01_R4_feat._nyamura_ぎゅる子.txt"
+    }
+  ]
+}
